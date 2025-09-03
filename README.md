@@ -10,7 +10,8 @@ This project automates the creation of LinkedIn-ready content using **n8n, Googl
 - ⚡ Produces polished, ready-to-post LinkedIn content in seconds
 
 ## 📹 Demo
-🎥 [Watch the demo video on Google Drive](https://drive.google.com/file/d/1pngyhSb52pg44EVyP-gOBXlaf_XqvEJE/view?usp=sharing)
+🎥 [![Watch the Demo](https://github.com/Harshithr4/linkedin-ai-automation-demo/blob/main/linkedin%20thumbnail.jpg)](https://drive.google.com/file/d/1pngyhSb52pg44EVyP-gOBXlaf_XqvEJE/view?usp=sharing)
+
 
 ## 🛠️ Tech Stack
 - **n8n** (workflow automation platform)
