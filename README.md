@@ -1,21 +1,30 @@
-# linkedin-ai-automation-demo
 # LinkedIn AI Automation Demo 🚀
 
-This project automates LinkedIn content creation using **n8n, Google Sheets, AI models, and Telegram**.
+This project automates the creation of LinkedIn-ready content using **n8n, Google Sheets, AI models, and Telegram**.
 
 ## ✨ Features
-- Pulls articles from Google Sheets
-- Summarises them into LinkedIn-ready posts with AI
-- Generates an AI image for the post
-- Sends the content + image to Telegram as a LinkedIn card
-- Ready to copy & post on LinkedIn in seconds
+- 📑 Fetches articles/links from Google Sheets
+- 🤖 Summarises them into professional LinkedIn posts using AI
+- 🎨 Generates an AI-powered illustration for each post
+- 📲 Sends the summary + image to Telegram as a LinkedIn card
+- ⚡ Produces polished, ready-to-post LinkedIn content in seconds
 
 ## 📹 Demo
-🎥 Video demo included in repo (see below)
+🎥 [Watch the demo video on Google Drive](https://drive.google.com/file/d/1pngyhSb52pg44EVyP-gOBXlaf_XqvEJE/view?usp=sharing)
 
 ## 🛠️ Tech Stack
-- n8n (automation platform)
-- Google Sheets API
-- Groq + Gemini AI models
-- LinkedIn API
-- Telegram Bot API
+- **n8n** (workflow automation platform)
+- **Google Sheets API**
+- **Groq + Gemini AI models** (content summarisation + image generation)
+- **LinkedIn API** (media asset handling & posting)
+- **Telegram Bot API** (content delivery)
+
+## 📂 Repository Contents
+- `Auto post articles social media.json` → n8n workflow export
+- `README.md` → project documentation
+- Demo video (hosted on Google Drive)
+
+---
+
+🔗 **Resume Note:**  
+This project is highlighted in my resume under *Projects*. Recruiters can view the complete workflow and demo through this repository.
